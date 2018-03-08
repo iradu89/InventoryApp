@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Products</string>
+    <string name="editor_activity_add_product">Add a product</string>
+    <string name="editor_activity_edit_product">Edit product</string>
+    <string name="increment_toast">Can\'t have more than 999 products</string>
+    <string name="decrement_toast">Can\'t have less than 0 quantity</string>
+    <string name="name_required">Product name necessary</string>
+    <string name="price_required">Product price necessary</string>
+    <string name="quantity_required">Product quantity necessary</string>
+    <string name="image_required">Product image necessary</string>
+    <string name="editor_insert_fail">There was an error with saving the product</string>
+    <string name="editor_insert_success">Product saved</string>
+    <string name="delete_message">Delete this product?</string>
+    <string name="delete_action">Delete</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="editor_delete_failed">Error with deleting product</string>
+    <string name="editor_delete_succesful">Product deleted</string>
+    <string name="editor_unsaved">Discard your changes and quit editing?</string>
+    <string name="editor_unsaved_discard">Discard</string>
+    <string name="editor_unsaved_keep_editing">Keep editing</string>
+    <string name="sale_button_success">Sold!</string>
+    <string name="sale_button_fail">Can\'t have less than 0 quantity</string>
+</resources>
